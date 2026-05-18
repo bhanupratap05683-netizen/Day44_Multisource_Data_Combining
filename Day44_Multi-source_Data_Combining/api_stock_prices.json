@@ -1,0 +1,44 @@
+[
+  {
+    "Ticker": "RELIANCE",
+    "Current_Price": 1452.5,
+    "PE_Ratio": 25.3,
+    "52W_High": 1608.0,
+    "52W_Low": 1115.0
+  },
+  {
+    "Ticker": "TCS",
+    "Current_Price": 3871.0,
+    "PE_Ratio": 31.1,
+    "52W_High": 4592.0,
+    "52W_Low": 3311.0
+  },
+  {
+    "Ticker": "INFY",
+    "Current_Price": 1623.45,
+    "PE_Ratio": 24.6,
+    "52W_High": 2060.0,
+    "52W_Low": 1358.0
+  },
+  {
+    "Ticker": "WIPRO",
+    "Current_Price": 481.2,
+    "PE_Ratio": 22.0,
+    "52W_High": 583.0,
+    "52W_Low": 408.0
+  },
+  {
+    "Ticker": "BAJAJFIN",
+    "Current_Price": 7210.0,
+    "PE_Ratio": 33.1,
+    "52W_High": 8192.0,
+    "52W_Low": 6200.0
+  },
+  {
+    "Ticker": "NESTLEIND",
+    "Current_Price": 2310.0,
+    "PE_Ratio": 70.2,
+    "52W_High": 2778.0,
+    "52W_Low": 2102.0
+  }
+]
